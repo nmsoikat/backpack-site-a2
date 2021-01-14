@@ -144,6 +144,54 @@ h1,h2,h3 {color: #363958;}
   color: #76C27E;
 }
 
+/* --------- subscribe area ----------*/
+.input-and-btn{
+  background-color: #88c27e;
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+}
+.input-and-btn .input-box{
+  width: 80%;
+  margin-right: 10px;
+}
+
+
+/* -------------- Contact Area ------------ */
+.contact-area{
+  background-color: #F8F9FC;
+  padding: 60px 0;
+}
+
+.contact-form{
+  width: 50%;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+}
+.input-group {
+  margin-bottom: 15px;
+  display: block;
+}
+
+.input-group p {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+.input-group textarea,
+.input-group input {
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  line-height: 2;
+  padding-left: 8px;
+  border-radius: 6px;
+}
+
+
 
 
 .footer-area{
